@@ -1,0 +1,9 @@
+Sep 29 01:12:03 server sshd[1024]: Failed password for root from 192.168.1.50 port 42111 ssh2
+Sep 29 01:12:05 server sshd[1025]: Failed password for root from 192.168.1.50 port 42112 ssh2
+Sep 29 01:12:07 server sshd[1026]: Failed password for root from 192.168.1.50 port 42113 ssh2
+Sep 29 01:12:09 server sshd[1027]: Failed password for root from 192.168.1.50 port 42114 ssh2
+Sep 29 01:12:11 server sshd[1028]: Failed password for root from 192.168.1.50 port 42115 ssh2
+Sep 29 01:12:15 server sshd[1029]: Accepted password for sam from 192.168.1.20 port 42200 ssh2
+Sep 29 01:15:22 server sshd[1030]: Failed password for admin from 10.0.0.25 port 43001 ssh2
+Envoyé
+Rédiger

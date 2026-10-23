@@ -1,0 +1,86 @@
+[
+    {
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ],
+        "incident_id": "INC-001"
+    },
+    {
+        "incident_id": "INC-002",
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "10.10.10.10",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ]
+    },
+    {
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ],
+        "incident_id": "INC-003"
+    },
+    {
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ],
+        "incident_id": "INC-004"
+    },
+    {
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ],
+        "incident_id": "INC-005"
+    },
+    {
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "RESOLVED",
+        "recommended_response": [
+            "Investigate source IP",
+            "Review authentication logs",
+            "Consider blocking the source IP"
+        ],
+        "incident_id": "INC-006"
+    }
+]

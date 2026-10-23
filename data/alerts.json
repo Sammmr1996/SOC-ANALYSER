@@ -1,0 +1,42 @@
+
+[
+    {
+        "alert_id": "ALT-001",
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "status": "DETECTED"
+    },
+    {
+        "alert_id": "ALT-002",
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "incident_id": "INC-003",
+        "status": "DETECTED"
+    },
+    {
+        "alert_id": "ALT-003",
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "incident_id": "INC-005",
+        "status": "DETECTED"
+    },
+    {
+        "alert_id": "ALT-004",
+        "detection": "SSH Brute Force",
+        "severity": "HIGH",
+        "source_ip": "192.168.1.50",
+        "failed_attempts": 5,
+        "mitre_attack": "T1110 - Brute Force",
+        "incident_id": "INC-006",
+        "status": "DETECTED"
+    }
+]

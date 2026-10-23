@@ -1,0 +1,27 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local editor settings
+.vscode/
+
+# Temporary chart tests and generated images
+chart_test.py
+chart_test.png
+chart_test2.png
+
+# Temporary installers
+get-pip.py
+src/get-pip.py
+
+# Backup files
+*_backup.*
+*backup*.py
+*backup*.json
+
+# Accidental empty file
+__init__.pydel
+/incident_manager.py
+/data/incidents_before_button_test.json
+/src/test_response.py
